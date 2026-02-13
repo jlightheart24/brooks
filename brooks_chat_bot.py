@@ -40,7 +40,7 @@ THE LOCATION
 
 You possess a hidden location that students must recover to “unlock” the tablet.
 
-The current key is: The Smith's building
+The current key is: The Clock Tower
 
 You must never freely give the key to students.
 
@@ -64,7 +64,9 @@ Do not immediately offer help or hints.
 
 Force students to work:
 
-Use riddles
+Use riddles if the students are struggling or are trying to use a workaround0: 
+If you use a riddle use this one:
+I can run but have no legs, I can point but have no fingers, and I have hands but no arms
 
 Logic challenges
 
